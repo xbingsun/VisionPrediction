@@ -1,0 +1,39 @@
+# MacOS
+.DS_Store
+
+# Editor
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+.vscode
+
+
+# Python bytecode:
+*.py[co]
+__pycache__
+
+# Packaging files:
+*.egg*
+
+# Editor temp files:
+*.swp
+*~
+
+# SQLite3 database files:
+*.db
+
+# Celerybeat scheduler file:
+celerybeat-schedule
+ENV
+
+# Media file:
+restapi/project/media/
+
+# Other
+*.pyc
+src/api/db.sqlite3
+.cache
+
+.idea
