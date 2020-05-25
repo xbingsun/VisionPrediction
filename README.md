@@ -7,6 +7,10 @@
 
 ### 运行方式
 
-- 前端：`npm install`
-- 后端：运行整个项目文件
+- 前端：
+  `cd frontend`
+  `npm run dev`
+- 后端：
+  `cd backend`
+  `python manage.py runserver 8000`
 
